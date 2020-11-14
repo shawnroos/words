@@ -1,5 +1,3 @@
 ---
-title: Content Planner
-Templat
-:
+title: Content Planner:
  ---
